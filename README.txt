@@ -1,4 +1,4 @@
-Here we will keep all of our code in on the Vex Robotics Competition Turning Point.
+Here we will keep all of Episcopal High School's code for the Vex Robotics Competition Turning Point.
 
 Group A: Killian Vetter, Daman Yang, and Jon Grunua
 
